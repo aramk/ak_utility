@@ -1,0 +1,2 @@
+Description:
+A PHP library containing useful functions for general use in any project. Contains functions for validation, performing array manipulation, printing readable error messages with a function stack/trace, performing numeric calculations, finding occurences and validating URLs and keeping track of redirections. More functionality will be added over time.
